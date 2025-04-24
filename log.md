@@ -30,11 +30,9 @@ print("I like " + favFood + " too!")
 ```
 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Rather simple so far. It would be good to build more complicated projects. But perhaps this will start soon during the Replit challenge.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
+____________________________________________________________________________
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
