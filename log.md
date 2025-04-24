@@ -9,10 +9,24 @@
 
 **Link to work:** N/A
 
-### Day 2: February 24, 2025 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 24, 2025 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I learnt about the input command (taking using input), where the user gives information to the computer. This is done through the input function.
+
+- You can store data from inputs into variables. Variable names cannot contain spaces, but can contain underscores between words or camelCaseToMakeItEasierToRead. The basic syntax for assigning a value to a variable is the variable name followed by the assignment operator (=) 
+
+    For example, to assign the value of 5 to the variable of x, you would use this code:
+      x = 5
+
+- Not too surprisingly, you can print the value stored in a variable by using print(variableName).
+
+The code below uses inputs, variables and the print function
+     ``` userName = input("What is your name?")
+      print("Hello, "+ userName +"!")
+      favFood = input("What's your favorite food?")
+      print("I like "+ favFood +" too!") ```
+
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
