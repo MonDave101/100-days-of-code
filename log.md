@@ -22,11 +22,12 @@
 - Not too surprisingly, you can print the value stored in a variable by using print(variableName).
 
 The code below uses inputs, variables and the print function
-     ``` userName = input("What is your name?")
-      print("Hello, "+ userName +"!")
-      favFood = input("What's your favorite food?")
-      print("I like "+ favFood +" too!") 
-    ```
+   ```python
+userName = input("What is your name?")
+print("Hello, " + userName + "!")
+favFood = input("What's your favorite food?")
+print("I like " + favFood + " too!")
+```
 
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
