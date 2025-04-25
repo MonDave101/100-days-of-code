@@ -32,7 +32,46 @@ print("I like " + favFood + " too!")
 
 **Thoughts**: Rather simple so far. It would be good to build more complicated projects. But perhaps this will start soon during the Replit challenge.
 
-____________________________________________________________________________
+### Day 3: Friday April 25th, 2025
+
+**Today's Progress**: The len function is a way to check the number of characters within a string.
+
+ ```python
+myName = ("Monica")
+print(myName)
+print (len(myName))
+```
+The output to the above would be 6.
+
++ Concatination (this means to add something to the end). So, you could add either numbers or strings together:
+
+          ```python
+        firstName = ("Monica")
+        middleName = ('Tara')
+        lastName = ('Dave')
+        
+        fullName = (firstName + " " + middleName + " " + lastName)
+        print(fullName)
+        ```
+The output to the above would be 'Monica Tara Dave'
+
++ An expression is made of operators and operands (the thing that is operated on). Operators are mathmatetical. Operands can be strings or numbers. 
+
++ The modular (%) operator divides the first number by the second, then counts any remainders left over. This is a great way to check whether a value is even or odd. If the result is a 1, then this remainder indicates an odd number, and and even number if the result is 0.
+
+     ```python
+     if (15 % 2 == 0):
+        print ("The result is even")
+    else: 
+        print ("The result is odd")
+        ```
+The result of the above code would be "The result is odd"
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+__________________________________________________________________
+TO COPY ____________________________________________________________________
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
